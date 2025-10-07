@@ -290,7 +290,7 @@ function createPopupContent(featureData) {
           Elected Officials Covering This Location
         </div>
         <ul style="list-style:none; padding:0; margin:0 0 0.9em 0;">
-          <li style="margin-bottom: 3px;"><strong>U.S. Senate:</strong> John Cornyn (R), Ted Cruz (R)</li>
+          <li style="margin-bottom: 3px;"><strong>U.S. Senate:</strong> Thom Tillis(R), Ted Budd (R)</li>
           <li style="margin-bottom: 3px;"><strong>U.S. House:</strong> ${featureData.congressRepName || 'N/A'} (${featureData.congressionalDist || 'N/A'})</li>
           <li style="margin-bottom: 3px;"><strong>State Senate:</strong> ${featureData.senateRepName || 'N/A'} (${featureData.senateDist || 'N/A'})</li>
           <li style="margin-bottom: 3px;"><strong>State House:</strong> ${featureData.houseRepName || 'N/A'} (${featureData.houseDist || 'N/A'})</li>
